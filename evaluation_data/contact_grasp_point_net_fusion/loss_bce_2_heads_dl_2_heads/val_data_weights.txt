@@ -1,0 +1,167 @@
+epoch: 100
+-----------------------------------
+pan
+17
+dice score avg head 1 = 0.86052942
+dice score avg head 2 = 0.71400011
+toothbrush
+19
+dice score avg head 1 = 0.26321054
+dice score avg head 2 = 0.41752630
+cylinder_small
+15
+dice score avg head 1 = 0.86633325
+dice score avg head 2 = 0.50806671
+torus_large
+19
+dice score avg head 1 = 0.81005263
+dice score avg head 2 = 0.73847359
+mug
+15
+dice score avg head 1 = 0.90326673
+dice score avg head 2 = 0.32013330
+
+-----------------------------------
+epoch: 200
+-----------------------------------
+pan
+17
+dice score avg head 1 = 0.81270593
+dice score avg head 2 = 0.74941176
+toothbrush
+19
+dice score avg head 1 = 0.70121050
+dice score avg head 2 = 0.84926325
+cylinder_small
+15
+dice score avg head 1 = 0.42206663
+dice score avg head 2 = 0.81520003
+torus_large
+19
+dice score avg head 1 = 0.64442110
+dice score avg head 2 = 0.86621052
+mug
+15
+dice score avg head 1 = 0.80353326
+dice score avg head 2 = 0.80686671
+
+-----------------------------------
+epoch: 300 --> best
+-----------------------------------
+pan
+17
+dice score avg head 1 = 0.83588243
+dice score avg head 2 = 0.79547065
+toothbrush
+19
+dice score avg head 1 = 0.40678945
+dice score avg head 2 = 0.69326323
+cylinder_small
+15
+dice score avg head 1 = 0.38313332
+dice score avg head 2 = 0.69806665
+torus_large
+19
+dice score avg head 1 = 0.75863153
+dice score avg head 2 = 0.80578947
+mug
+15
+dice score avg head 1 = 0.87333328
+dice score avg head 2 = 0.61460006
+
+64.2, 72.2
+-----------------------------------
+epoch: 400 
+-----------------------------------
+pan
+17
+dice score avg head 1 = 0.78476471
+dice score avg head 2 = 0.84217650
+toothbrush
+19
+dice score avg head 1 = 0.75026315
+dice score avg head 2 = 0.53542107
+cylinder_small
+15
+dice score avg head 1 = 0.24226665
+dice score avg head 2 = 0.73146671
+torus_large
+19
+dice score avg head 1 = 0.68026310
+dice score avg head 2 = 0.76852626
+mug
+15
+dice score avg head 1 = 0.96533328
+dice score avg head 2 = 0.57066673
+-----------------------------------
+epoch: 500
+-----------------------------------
+pan
+17
+dice score avg head 1 = 0.66711760
+dice score avg head 2 = 0.81694114
+toothbrush
+19
+dice score avg head 1 = 0.59810525
+dice score avg head 2 = 0.49257895
+cylinder_small
+15
+dice score avg head 1 = 0.37960002
+dice score avg head 2 = 0.80160004
+torus_large
+19
+dice score avg head 1 = 0.73210526
+dice score avg head 2 = 0.76194739
+mug
+15
+dice score avg head 1 = 0.93473333
+dice score avg head 2 = 0.46139997
+-----------------------------------
+
+epoch: 600
+-----------------------------------
+pan
+17
+dice score avg head 1 = 0.73988235
+dice score avg head 2 = 0.85770577
+toothbrush
+19
+dice score avg head 1 = 0.65989470
+dice score avg head 2 = 0.79889470
+cylinder_small
+15
+dice score avg head 1 = 0.72133338
+dice score avg head 2 = 0.92380005
+torus_large
+19
+dice score avg head 1 = 0.74357897
+dice score avg head 2 = 0.71521050
+mug
+15
+dice score avg head 1 = 0.97793329
+dice score avg head 2 = 0.70773333
+
+-----------------------------------
+
+epoch: 700
+-----------------------------------
+pan
+17
+dice score avg head 1 = 0.87199998
+dice score avg head 2 = 0.84558815
+toothbrush
+19
+dice score avg head 1 = 0.82894731
+dice score avg head 2 = 0.64668423
+cylinder_small
+15
+dice score avg head 1 = 0.89219993
+dice score avg head 2 = 0.97653323
+torus_large
+19
+dice score avg head 1 = 0.95352632
+dice score avg head 2 = 0.89994740
+mug
+15
+dice score avg head 1 = 0.96313339
+dice score avg head 2 = 0.73319995

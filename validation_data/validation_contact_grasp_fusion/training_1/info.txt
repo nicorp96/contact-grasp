@@ -1,0 +1,31 @@
+The trainig was done with contact_grasp_net_fusion
+Loss: 
+    loss = loss_cross_entropy_1 + loss_cross_entropy_2
+
+Network: 
+    2 FC Heads: 1 Head using 2 conv layers and Head 2 using 1 conv layer
+    
+config:
+{
+    "model": {
+        "in_points": 4000,
+        "in_ch": 6,
+        "pos_weight": 3,
+        "pos_weight_2": 8
+    },
+    "data_set": {
+        "batch_size": 6,
+        "data_dir": "data_contact_points",
+        "rotation": 1,
+        "scaling": 1,
+        "num_workers": 6
+    },
+    "training": {
+        "max_epochs": 600,
+        "report_period": 20,
+        "val_interval": 50,
+        "base_lr": 0.001,
+        "beta_1": 0.9,
+        "beta_2": 0.999
+    }
+}

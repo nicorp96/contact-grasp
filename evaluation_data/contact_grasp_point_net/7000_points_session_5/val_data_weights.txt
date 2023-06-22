@@ -1,0 +1,127 @@
+epoch: 100
+-----------------------------------
+
+
+epoch: 200
+-----------------------------------
+
+
+epoch: 300
+-----------------------------------
+
+
+epoch: 400
+-----------------------------------
+
+
+-----------------------------------
+epoch: 500
+-----------------------------------
+pan
+20
+dice score avg head 1 = 1.00000000
+dice score avg head 2 = 1.00000000
+toothbrush
+22
+dice score avg head 1 = 1.00000000
+dice score avg head 2 = 0.84429026
+cup
+18
+dice score avg head 1 = 1.00000000
+dice score avg head 2 = 1.00000000
+torus_large
+22
+dice score avg head 1 = 0.99931824
+dice score avg head 2 = 0.98376137
+mug
+18
+dice score avg head 1 = 0.99466664
+dice score avg head 2 = 1.00000000
+cylinder_small
+18
+dice score avg head 1 = 1.00000000
+dice score avg head 2 = 1.00000000
+
+-----------------------------------
+
+epoch: 600 
+-----------------------------------
+pan
+20
+dice score avg head 1 = 1.00000000
+dice score avg head 2 = 1.00000000
+toothbrush
+22
+dice score avg head 1 = 0.97522730
+dice score avg head 2 = 0.68531889
+cup
+18
+dice score avg head 1 = 1.00000000
+dice score avg head 2 = 1.00000000
+torus_large
+22
+dice score avg head 1 = 1.00000000
+dice score avg head 2 = 0.99475527
+mug
+18
+dice score avg head 1 = 1.00000000
+dice score avg head 2 = 0.99860412
+cylinder_small
+18
+dice score avg head 1 = 1.00000000
+dice score avg head 2 = 1.00000000
+-----------------------------------
+
+epoch: 700
+-----------------------------------
+pan
+20
+dice score avg head 1 = 0.98009998
+dice score avg head 2 = 0.33129856
+toothbrush
+22
+dice score avg head 1 = 0.78913641
+dice score avg head 2 = 0.53316200
+cup
+18
+dice score avg head 1 = 0.75961119
+dice score avg head 2 = 0.56323707
+torus_large
+22
+dice score avg head 1 = 0.90168190
+dice score avg head 2 = 0.69175661
+mug
+18
+dice score avg head 1 = 0.65194446
+dice score avg head 2 = 0.87899864
+cylinder_small
+18
+dice score avg head 1 = 1.00000000
+dice score avg head 2 = 0.92221707
+---------------------------------------
+contact_grasp_weights.pth
+
+pan
+20
+dice score avg head 1 = 0.95259994
+dice score avg head 2 = 0.86572248
+toothbrush
+22
+dice score avg head 1 = 0.47145462
+dice score avg head 2 = 0.70944428
+cup
+18
+dice score avg head 1 = 0.98850006
+dice score avg head 2 = 0.78410405
+torus_large
+22
+dice score avg head 1 = 0.85563648
+dice score avg head 2 = 0.80755287
+mug
+18
+dice score avg head 1 = 0.91372228
+dice score avg head 2 = 0.99201691
+cylinder_small
+18
+dice score avg head 1 = 1.00000000
+dice score avg head 2 = 1.00000000

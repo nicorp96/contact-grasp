@@ -1,0 +1,9 @@
+The trainig was done with multi contact_grasp_net_multi
+modifications: trained with all 15 sessions, loss function with pos weight, relu added 
+max epochs: 1000
+batch size: 12
+pos weight loss func: 3
+val interval: 25
+loss: 0.89
+acc: 0.85
+points_start: 1000

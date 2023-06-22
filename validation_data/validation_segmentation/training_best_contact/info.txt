@@ -1,0 +1,28 @@
+The trainig was done with contact_grasp_net: color are used and concatanated with points l0 after feature propagation
+modifications: loss with pos_weight
+pos weight loss func: 3
+points_start: 1000
+
+config:
+{
+    "model": {
+        "in_points": 3000,
+        "in_ch": 6,
+        "pos_weight": 3
+    },
+    "data_set": {
+        "batch_size": 6,
+        "data_dir": "data_pcl_contact",
+        "rotation": 1,
+        "scaling": 1,
+        "num_workers": 6
+    },
+    "training": {
+        "max_epochs": 600,
+        "report_period": 20,
+        "val_interval": 50,
+        "base_lr": 0.001,
+        "beta_1": 0.9,
+        "beta_2": 0.999
+    }
+}

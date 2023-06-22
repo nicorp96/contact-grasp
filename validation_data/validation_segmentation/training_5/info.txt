@@ -1,0 +1,9 @@
+The trainig was done with contact_grasp_net: color are used and concatanated with layer l1
+modifications: loss with pos_weight
+max epochs: 1000
+batch size: 10
+pos weight loss func: 3
+val interval: 25
+loss: 0.93
+acc: 0.77
+points_start: 1000

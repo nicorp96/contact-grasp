@@ -1,0 +1,26 @@
+{
+    "model": {
+        "in_points": 4000,
+        "in_ch": 6,
+        "pos_weight": 3,
+        "pos_weight_2": 6
+    },
+    "data_set": {
+        "batch_size": 6,
+        "data_dir": "data_contact_points_4000",
+        "rotation": 1,
+        "scaling": 1,
+        "noise": 1,
+        "num_workers": 6
+    },
+    "training": {
+        "max_epochs": 800,
+        "report_period": 20,
+        "val_interval": 50,
+        "base_lr": 0.001,
+        "beta_1": 0.9,
+        "beta_2": 0.999,
+        "save_folder_name": "contact_grasp_point_net_fusion",
+        "n_save_weights": 100
+    }
+}

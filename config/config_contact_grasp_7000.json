@@ -1,0 +1,25 @@
+{
+    "model": {
+        "in_points": 7000,
+        "in_ch": 6,
+        "pos_weight": 6,
+        "pos_weight_2": 9
+    },
+    "data_set": {
+        "batch_size": 12,
+        "data_dir": "data_contact_points_7000",
+        "rotation": 1,
+        "scaling": 1,
+        "num_workers": 6
+    },
+    "training": {
+        "max_epochs": 800,
+        "report_period": 2,
+        "val_interval": 50,
+        "base_lr": 0.0001,
+        "beta_1": 0.9,
+        "beta_2": 0.999,
+        "save_folder_name": "evaluation_data",
+        "n_save_weights": 100
+    }
+}
